@@ -73,19 +73,26 @@
         "icon": "book-font",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "Hoạt động tín ngưỡng",
             "pages": [
-              "api-reference/introduction"
+              "mau-b1"
             ]
           },
           {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
+            "group": "Sinh hoạt và tổ chức tôn giáo",
+            "pages": []
+          },
+          {
+            "group": "Nhân sự và thuyên chuyển",
+            "pages": []
+          },
+          {
+            "group": "Hoạt động đào tạo và yếu tố nước ngoài",
+            "pages": []
+          },
+          {
+            "group": "Các biểu mẫu dành cho cơ quan Nhà nước",
+            "pages": []
           }
         ]
       }
