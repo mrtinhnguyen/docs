@@ -18,6 +18,7 @@
             "group": "1. Tổng quan",
             "pages": [
               "loi-mo-dau",
+              "danh-muc-ton-giao",
               "loi-ket"
             ]
           },
@@ -27,8 +28,7 @@
             "expanded": true,
             "pages": [
               "thuat-ngu",
-              "van-ban-phap-luat",
-              "danh-muc-ton-giao"
+              "van-ban-phap-luat"
             ]
           },
           {
