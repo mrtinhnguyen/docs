@@ -11,7 +11,8 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Sổ tay Tôn giáo – Dân tộc",
+        "icon": "notebook",
         "groups": [
           {
             "group": "Getting started",
@@ -40,7 +41,8 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "Biểu mẫu Tôn giáo – Dân tộc",
+        "icon": "book-font",
         "groups": [
           {
             "group": "API documentation",
