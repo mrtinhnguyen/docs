@@ -13,30 +13,57 @@
       {
         "tab": "Sổ tay Tôn giáo – Dân tộc",
         "icon": "notebook",
-        "pages": [
-          "loi-mo-dau",
+        "groups": [
           {
-            "group": "Getting started",
-            "pages": []
-          },
-          {
-            "group": "Customization",
-            "pages": []
-          },
-          {
-            "group": "Writing content",
+            "group": "1. Tổng quan",
             "pages": [
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
+              "loi-mo-dau",
+              "loi-ket"
             ]
           },
           {
-            "group": "AI tools",
+            "group": "2. Thuật ngữ & Văn bản",
+            "icon": "a",
+            "expanded": true,
             "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
+              "",
+              "van-ban-phap-luat",
+              "danh-muc-ton-giao"
+            ]
+          },
+          {
+            "group": "3. Nghiệp vụ Tôn giáo",
+            "pages": [
+              "",
+              "dang-ky-sinh-hoat",
+              "cong-nhan-to-chuc",
+              "nhan-su-and-dao-tao",
+              "co-so-tho-tu",
+              "yeu-to-nuoc-ngoai"
+            ]
+          },
+          {
+            "group": "4. Chính sách Dân tộc",
+            "pages": [
+              "dinh-muc-ho-tro",
+              "quy-trinh-thuc-hien",
+              "chinh-sach-khac",
+              "bieu-mau-ap-dung"
+            ]
+          },
+          {
+            "group": "5. Quản lý & Tình huống",
+            "pages": [
+              "quan-ly-nha-nuoc",
+              "cau-hoi-tinh-huong"
+            ]
+          },
+          {
+            "group": "6. Biểu mẫu & Quy trình",
+            "pages": [
+              "danh-muc-bieu-mau",
+              "quy-trinh-nop-ho-so",
+              "quy-trinh-chinh-sach-dan-toc"
             ]
           }
         ]
