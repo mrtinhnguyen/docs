@@ -7,7 +7,7 @@
     "light": "#d52b0f",
     "dark": "#ffffff"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/images/logo-bdthanoi.png",
   "navigation": {
     "tabs": [
       {
@@ -142,5 +142,11 @@
   },
   "fonts": {
     "family": "Roboto"
+  },
+  "thumbnails": {
+    "appearance": "light"
+  },
+  "styling": {
+    "eyebrows": "section"
   }
 }
