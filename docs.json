@@ -13,7 +13,8 @@
       {
         "tab": "Sổ tay Tôn giáo – Dân tộc",
         "icon": "notebook",
-        "groups": [
+        "pages": [
+          "loi-mo-dau",
           {
             "group": "Getting started",
             "pages": []
