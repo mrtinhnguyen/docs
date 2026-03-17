@@ -13,13 +13,12 @@
       {
         "tab": "Sổ tay Tôn giáo – Dân tộc",
         "icon": "notebook",
-        "groups": [
+        "pages": [
           {
             "group": "1. Tổng quan",
             "pages": [
               "loi-mo-dau",
-              "danh-muc-ton-giao",
-              "loi-ket"
+              "danh-muc-ton-giao"
             ]
           },
           {
@@ -65,7 +64,8 @@
               "quy-trinh-nop-ho-so",
               "quy-trinh-chinh-sach-dan-toc"
             ]
-          }
+          },
+          "loi-ket"
         ]
       },
       {
