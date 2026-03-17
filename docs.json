@@ -101,6 +101,10 @@
       {
         "label": "Cổng thông tin Sở",
         "href": "https://sodantoctongiao.hanoi.gov.vn/"
+      },
+      {
+        "label": "Dữ liệu Dân tộc và Tôn giáo",
+        "href": "https://dulieudantoctongiao.hanoi.gov.vn/"
       }
     ],
     "primary": {
