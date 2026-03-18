@@ -108,7 +108,7 @@
         ]
       },
       {
-        "tab": "Nghị định 95",
+        "tab": "Nghị định 95 & Nghị định 124",
         "groups": [
           {
             "group": "QUYỀN TỰ DO TÂM LINH VÀ PHÂN LOẠI CÔNG TRÌNH THỜ TỰ",
@@ -124,7 +124,8 @@
             "group": "HƯỚNG DẪN ĐĂNG KÝ VÀ THAY ĐỔI SINH HOẠT TÔN GIÁO TẬP TRUNG",
             "pages": [
               "thay-doi-nguoi-dai-dien-cua-nhom-sinh-hoat-ton-giao-tap-trung-dieu-5-dieu-7",
-              "thay-doi-dia-diem-sinh-hoat-ton-giao-tap-trung-dieu-6-dieu-8"
+              "thay-doi-dia-diem-sinh-hoat-ton-giao-tap-trung-dieu-6-dieu-8",
+              "quyen-sinh-hoat-ton-giao-tap-trung-cua-nguoi-nuoc-ngoai-dieu-7-dieu-8-va-cap-nhat-nghi-dinh-124"
             ]
           },
           {
@@ -140,9 +141,6 @@
             "pages": []
           }
         ]
-      },
-      {
-        "tab": "Nghị định 124"
       }
     ]
   },
