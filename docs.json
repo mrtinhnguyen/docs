@@ -148,7 +148,9 @@
           },
           {
             "group": "TÌNH HUỐNG THỰC TẾ (FAQs)",
-            "pages": []
+            "pages": [
+              "tong-ket"
+            ]
           }
         ]
       }
