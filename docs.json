@@ -106,6 +106,36 @@
             "pages": []
           }
         ]
+      },
+      {
+        "tab": "Nghị định 95",
+        "groups": [
+          {
+            "group": "QUYỀN TỰ DO TÂM LINH VÀ PHÂN LOẠI CÔNG TRÌNH THỜ TỰ",
+            "pages": [
+              "quyen-dung-kinh-sach-trong-moi-truong-dac-thu-dieu-4"
+            ]
+          },
+          {
+            "group": "HƯỚNG DẪN ĐĂNG KÝ VÀ THAY ĐỔI SINH HOẠT TÔN GIÁO TẬP TRUNG",
+            "pages": []
+          },
+          {
+            "group": "QUẢN TRỊ TỔ CHỨC VÀ ĐĂNG KÝ PHÁP NHÂN",
+            "pages": []
+          },
+          {
+            "group": "VẬN HÀNH NGUỒN LỰC, NHÂN SỰ VÀ CHUYỂN ĐỔI SỐ",
+            "pages": []
+          },
+          {
+            "group": "TÌNH HUỐNG THỰC TẾ (FAQs)",
+            "pages": []
+          }
+        ]
+      },
+      {
+        "tab": "Nghị định 124"
       }
     ]
   },
