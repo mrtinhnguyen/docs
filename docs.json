@@ -119,6 +119,50 @@
         ]
       },
       {
+        "tab": "Thông tin, Tuyên truyền Tôn giáo, Tín ngưỡng",
+        "pages": [
+          "thong-tin-tuyen-truyen-ton-giao-tin-nguong",
+          {
+            "group": "1. Tình hình tín ngưỡng, tôn giáo tại Việt Nam",
+            "pages": [
+              "dac-diem-chung",
+              "dac-diem-chuc-sac-tin-do",
+              "khai-quat-cac-ton-giao-da-duoc-cong-nhan",
+              "tin-nguong-dan-gian"
+            ]
+          },
+          {
+            "group": "2. Quan điểm của Đảng và Pháp luật Nhà nước",
+            "pages": [
+              "co-so-ly-luan-va-tu-tuong-ho-chi-minh",
+              "chu-truong-chinh-sach-cua-dang-qua-cac-thoi-ky",
+              "luat-tin-nguong-ton-giao-2016-va-nghi-dinh-162-2017-nd-cp",
+              "quy-dinh-ve-dat-dai-va-xay-dung-lien-quan-den-ton-giao"
+            ]
+          },
+          {
+            "group": "3. Đối ngoại Tôn giáo và Đấu tranh Nhân quyền",
+            "pages": [
+              "hoat-dong-doi-ngoai-ton-giao",
+              "dau-tranh-nhan-quyen",
+              "hien-tuong-ton-giao-moi-dao-la"
+            ]
+          },
+          {
+            "group": "4. Kỹ năng nghiệp vụ và Công tác vận động",
+            "pages": [
+              "ky-nang-thong-tin-tuyen-truyen",
+              "ky-nang-van-dong-chuc-sac-tin-do",
+              "xu-ly-diem-nong-va-dau-tranh-chong-loi-dung-ton-giao"
+            ]
+          },
+          {
+            "group": "5. Hỏi đáp và Tra cứu nhanh",
+            "pages": []
+          }
+        ]
+      },
+      {
         "tab": "Danh mục Biểu mẫu (Tải về)",
         "icon": "book-font",
         "groups": [
