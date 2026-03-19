@@ -69,6 +69,40 @@
         ]
       },
       {
+        "tab": "Thông tin, Tuyên truyền Tôn giáo, Tín ngưỡng",
+        "pages": [
+          "thong-tin-tuyen-truyen-ton-giao-tin-nguong",
+          {
+            "group": "1. Tình hình tín ngưỡng, tôn giáo tại Việt Nam",
+            "pages": [
+              "dac-diem-chung",
+              "dac-diem-chuc-sac-tin-do",
+              "khai-quat-cac-ton-giao-da-duoc-cong-nhan",
+              "tin-nguong-dan-gian"
+            ]
+          },
+          {
+            "group": "2. Quan điểm của Đảng và Pháp luật Nhà nước",
+            "pages": [
+              "co-so-ly-luan-va-tu-tuong-ho-chi-minh",
+              "chu-truong-chinh-sach-cua-dang-qua-cac-thoi-ky",
+              "doi-ngoai-ton-giao-va-dau-tranh-nhan-quyen"
+            ]
+          },
+          {
+            "group": "3. Kỹ năng nghiệp vụ và Công tác vận động",
+            "pages": [
+              "ky-nang-thong-tin-tuyen-truyen",
+              "ky-nang-van-dong-chuc-sac-tin-do",
+              "xu-ly-diem-nong-va-dau-tranh-chong-loi-dung-ton-giao",
+              "ky-nang-xu-ly-diem-nong-ton-giao-tai-dia-phuong",
+              "nhan-dien-mot-su-viec-diem-nong-ton-giao"
+            ]
+          },
+          "loi-ket-so-tay-tuyen-truyen"
+        ]
+      },
+      {
         "tab": "Nghị định 95 & Nghị định 124",
         "pages": [
           "gioi-thieu",
@@ -116,40 +150,6 @@
               "tong-ket"
             ]
           }
-        ]
-      },
-      {
-        "tab": "Thông tin, Tuyên truyền Tôn giáo, Tín ngưỡng",
-        "pages": [
-          "thong-tin-tuyen-truyen-ton-giao-tin-nguong",
-          {
-            "group": "1. Tình hình tín ngưỡng, tôn giáo tại Việt Nam",
-            "pages": [
-              "dac-diem-chung",
-              "dac-diem-chuc-sac-tin-do",
-              "khai-quat-cac-ton-giao-da-duoc-cong-nhan",
-              "tin-nguong-dan-gian"
-            ]
-          },
-          {
-            "group": "2. Quan điểm của Đảng và Pháp luật Nhà nước",
-            "pages": [
-              "co-so-ly-luan-va-tu-tuong-ho-chi-minh",
-              "chu-truong-chinh-sach-cua-dang-qua-cac-thoi-ky",
-              "doi-ngoai-ton-giao-va-dau-tranh-nhan-quyen"
-            ]
-          },
-          {
-            "group": "3. Kỹ năng nghiệp vụ và Công tác vận động",
-            "pages": [
-              "ky-nang-thong-tin-tuyen-truyen",
-              "ky-nang-van-dong-chuc-sac-tin-do",
-              "xu-ly-diem-nong-va-dau-tranh-chong-loi-dung-ton-giao",
-              "ky-nang-xu-ly-diem-nong-ton-giao-tai-dia-phuong",
-              "nhan-dien-mot-su-viec-diem-nong-ton-giao"
-            ]
-          },
-          "loi-ket-so-tay-tuyen-truyen"
         ]
       },
       {
